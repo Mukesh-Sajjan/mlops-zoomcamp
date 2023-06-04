@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91981/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/ef00dcb2eb334719976d594157eb32a9/artifacts
+end_time: 1685863825065
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef00dcb2eb334719976d594157eb32a9
+run_name: mercurial-hound-605
+run_uuid: ef00dcb2eb334719976d594157eb32a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685863806199
+status: 3
+tags: []
+user_id: '91981'
