@@ -58,7 +58,7 @@ y_pred = model.predict(X_val)
 
 
 import numpy as np
-print(np.mean(y_pred))
+print(np.std(y_pred))
 
 
 # In[17]:
